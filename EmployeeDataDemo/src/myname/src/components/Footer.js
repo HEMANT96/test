@@ -50,7 +50,8 @@ const Footer = () => {
                 <a href="https://Instagram.com" className="a"><FaInstagram style={{color:"#3f729b"}}/>Instagram</a>
               </li>
             </ul>
-          </MDBCol>
+          <p> </p>
+           </MDBCol>
         </MDBRow>
       </MDBContainer>
       <div className="footer-copyright text-center py-3">
